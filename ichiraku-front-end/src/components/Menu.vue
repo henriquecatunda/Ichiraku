@@ -101,9 +101,9 @@ export default {
 }
 
 .imageUser{
-  width: 100px;
-  height: 100px;
-  border-radius: 100% ;
+  width: 90px;
+  height: 90px;
+  border-radius: 50% ;
 }
 
 .Menu .infoMenu {
